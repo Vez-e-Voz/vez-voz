@@ -10,3 +10,4 @@ Projeto em desenvolvimento.
 ## Elementos: 
 - Ivan Moniz
 - Kleiton Delgado
+- Edson Vaz
