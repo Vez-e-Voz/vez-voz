@@ -9,3 +9,4 @@ Projeto em desenvolvimento.
 
 ## Elementos: 
 - Ivan Moniz
+- Cláudio Tavares
