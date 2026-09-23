@@ -5,3 +5,7 @@ O VEZ & VOZ CV é uma plataforma web para ajudar cidadãos a comunicar problemas
 ## Estado do projeto
 
 Projeto em desenvolvimento.
+
+
+## Elementos: 
+- Ivan Moniz
