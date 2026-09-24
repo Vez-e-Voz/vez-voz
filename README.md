@@ -10,3 +10,5 @@ Projeto em desenvolvimento.
 ## Elementos: 
 - Ivan Moniz
 - Cláudio Tavares
+- Kleiton Delgado
+- Edson Vaz
