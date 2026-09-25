@@ -13,3 +13,4 @@ Projeto em desenvolvimento.
 - Kleiton Delgado
 - Edson Vaz
 - Joseana Barros
+- Hamilton Pina
