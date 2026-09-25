@@ -12,3 +12,4 @@ Projeto em desenvolvimento.
 - Cláudio Tavares
 - Kleiton Delgado
 - Edson Vaz
+- Joseana Barros
